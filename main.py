@@ -1,1 +1,4 @@
-#WRITE YOUR CODE IN THIS FILE
+def lastLetter(w):
+    return [len(w)]
+
+print(lastLetter("hello"))
